@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-79,
+				192
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bepi feliz idle"
+		},
+		{
+			"offsets": [
+				-94,
+				223
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "happy beepie up"
+		},
+		{
+			"offsets": [
+				-36,
+				151
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "happybeepi down"
+		},
+		{
+			"offsets": [
+				-28,
+				181
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "happybeepie right"
+		},
+		{
+			"offsets": [
+				-47,
+				168
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "happybeepueleft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Playable_happybeepie",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "realbeepie",
+	"flip_x": false,
+	"healthbar_colors": [
+		230,
+		70,
+		110
+	],
+	"camera_position": [
+		0,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

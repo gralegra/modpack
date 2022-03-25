@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"pokemon-master",
+			"mox",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "mox",
+	"weekCharacters": [
+		"mox",
+		"",
+		"bf"
+	],
+	"storyName": "battle pokemon",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

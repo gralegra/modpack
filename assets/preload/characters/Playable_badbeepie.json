@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				78,
+				249
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "beepiedemonio derecha"
+		},
+		{
+			"offsets": [
+				55,
+				246
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "beepie mad idle"
+		},
+		{
+			"offsets": [
+				59,
+				206
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "beepiemala izquierda"
+		},
+		{
+			"offsets": [
+				77,
+				262
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "beepiemalaabajo"
+		},
+		{
+			"offsets": [
+				18,
+				290
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "beepimalaup"
+		},
+		{
+			"offsets": [
+				17,
+				282
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "get READY",
+			"loop": false,
+			"name": "get ready sweaty"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Playable_badbeepie",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "badbeepie",
+	"flip_x": false,
+	"healthbar_colors": [
+		30,
+		30,
+		30
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
