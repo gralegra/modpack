@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Idle",
+	"image": "Skew",
+	"position": [
+		435,
+		125
+	],
+	"flipX": false,
+	"scale": 0.6,
+	"confirm_anim": "Idle"
+}
