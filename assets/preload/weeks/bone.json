@@ -1,0 +1,32 @@
+{
+	"storyName": "were funnier then you, thats for sure",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"skew",
+		""
+	],
+	"songs": [
+		[
+			"Atrocity",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Mid Week",
+	"hiddenUntilUnlocked": false
+}
