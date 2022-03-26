@@ -8,3 +8,4 @@ week6
 red
 char
 bone
+weekedd
