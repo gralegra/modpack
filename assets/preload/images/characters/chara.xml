@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chara.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="charadown instance 10000" x="0" y="0" width="802" height="859" frameX="0" frameY="0" frameWidth="819" frameHeight="898"/>
+	<SubTexture name="charadown instance 10001" x="802" y="0" width="802" height="859" frameX="0" frameY="0" frameWidth="819" frameHeight="898"/>
+	<SubTexture name="charadown instance 10002" x="1604" y="0" width="802" height="859" frameX="-17" frameY="-39" frameWidth="819" frameHeight="898"/>
+	<SubTexture name="charadown instance 10003" x="2406" y="0" width="802" height="859" frameX="-17" frameY="-39" frameWidth="819" frameHeight="898"/>
+	<SubTexture name="charadown instance 10004" x="3208" y="0" width="802" height="859" frameX="-17" frameY="-39" frameWidth="819" frameHeight="898"/>
+	<SubTexture name="charadown instance 10005" x="4010" y="0" width="802" height="859" frameX="-17" frameY="-39" frameWidth="819" frameHeight="898"/>
+	<SubTexture name="charadown instance 10006" x="4812" y="0" width="802" height="859" frameX="-17" frameY="-39" frameWidth="819" frameHeight="898"/>
+	<SubTexture name="charadown instance 10007" x="5614" y="0" width="802" height="859" frameX="-17" frameY="-39" frameWidth="819" frameHeight="898"/>
+	<SubTexture name="charadown instance 10008" x="6416" y="0" width="802" height="859" frameX="-17" frameY="-39" frameWidth="819" frameHeight="898"/>
+	<SubTexture name="charadown instance 10009" x="7218" y="0" width="802" height="859" frameX="-17" frameY="-39" frameWidth="819" frameHeight="898"/>
+	<SubTexture name="charadown instance 10010" x="0" y="859" width="802" height="859" frameX="-17" frameY="-39" frameWidth="819" frameHeight="898"/>
+	<SubTexture name="charadown instance 10011" x="802" y="859" width="802" height="859" frameX="-17" frameY="-39" frameWidth="819" frameHeight="898"/>
+	<SubTexture name="charadown instance 10012" x="1604" y="859" width="802" height="859" frameX="-17" frameY="-39" frameWidth="819" frameHeight="898"/>
+	<SubTexture name="charadown instance 10013" x="2406" y="859" width="802" height="859" frameX="-17" frameY="-39" frameWidth="819" frameHeight="898"/>
+	<SubTexture name="charadown instance 10014" x="3208" y="859" width="802" height="859" frameX="-17" frameY="-39" frameWidth="819" frameHeight="898"/>
+	<SubTexture name="charaidle instance 10000" x="4010" y="859" width="840" height="869" frameX="0" frameY="-6" frameWidth="840" frameHeight="875"/>
+	<SubTexture name="charaidle instance 10001" x="4850" y="859" width="840" height="869" frameX="0" frameY="-6" frameWidth="840" frameHeight="875"/>
+	<SubTexture name="charaidle instance 10002" x="5690" y="859" width="802" height="858" frameX="-17" frameY="-5" frameWidth="840" frameHeight="875"/>
+	<SubTexture name="charaidle instance 10003" x="6492" y="859" width="802" height="858" frameX="-17" frameY="-5" frameWidth="840" frameHeight="875"/>
+	<SubTexture name="charaidle instance 10004" x="7294" y="859" width="802" height="858" frameX="-7" frameY="-3" frameWidth="840" frameHeight="875"/>
+	<SubTexture name="charaidle instance 10005" x="0" y="1728" width="802" height="858" frameX="-7" frameY="-3" frameWidth="840" frameHeight="875"/>
+	<SubTexture name="charaidle instance 10006" x="802" y="1728" width="802" height="858" frameX="-22" frameY="0" frameWidth="840" frameHeight="875"/>
+	<SubTexture name="charaidle instance 10007" x="1604" y="1728" width="802" height="858" frameX="-22" frameY="0" frameWidth="840" frameHeight="875"/>
+	<SubTexture name="charaidle instance 10008" x="2406" y="1728" width="802" height="858" frameX="-24" frameY="-5" frameWidth="840" frameHeight="875"/>
+	<SubTexture name="charaidle instance 10009" x="3208" y="1728" width="802" height="858" frameX="-24" frameY="-5" frameWidth="840" frameHeight="875"/>
+	<SubTexture name="charaidle instance 10010" x="4010" y="1728" width="802" height="858" frameX="-24" frameY="-5" frameWidth="840" frameHeight="875"/>
+	<SubTexture name="charaidle instance 10011" x="4812" y="1728" width="802" height="858" frameX="-24" frameY="-5" frameWidth="840" frameHeight="875"/>
+	<SubTexture name="charaidle instance 10012" x="5614" y="1728" width="802" height="858" frameX="-24" frameY="-5" frameWidth="840" frameHeight="875"/>
+	<SubTexture name="charaidle instance 10013" x="6416" y="1728" width="802" height="858" frameX="-24" frameY="-5" frameWidth="840" frameHeight="875"/>
+	<SubTexture name="charaleft instance 10000" x="7218" y="1728" width="803" height="859" frameX="0" frameY="-59" frameWidth="817" frameHeight="918"/>
+	<SubTexture name="charaleft instance 10001" x="0" y="2587" width="803" height="859" frameX="0" frameY="-59" frameWidth="817" frameHeight="918"/>
+	<SubTexture name="charaleft instance 10002" x="803" y="2587" width="802" height="860" frameX="-15" frameY="0" frameWidth="817" frameHeight="918"/>
+	<SubTexture name="charaleft instance 10003" x="1605" y="2587" width="802" height="860" frameX="-15" frameY="0" frameWidth="817" frameHeight="918"/>
+	<SubTexture name="charaleft instance 10004" x="2407" y="2587" width="802" height="860" frameX="-15" frameY="0" frameWidth="817" frameHeight="918"/>
+	<SubTexture name="charaleft instance 10005" x="3209" y="2587" width="802" height="860" frameX="-15" frameY="0" frameWidth="817" frameHeight="918"/>
+	<SubTexture name="charaleft instance 10006" x="4011" y="2587" width="802" height="860" frameX="-15" frameY="0" frameWidth="817" frameHeight="918"/>
+	<SubTexture name="charaleft instance 10007" x="4813" y="2587" width="802" height="860" frameX="-15" frameY="0" frameWidth="817" frameHeight="918"/>
+	<SubTexture name="charaleft instance 10008" x="5615" y="2587" width="802" height="860" frameX="-15" frameY="0" frameWidth="817" frameHeight="918"/>
+	<SubTexture name="charaleft instance 10009" x="6417" y="2587" width="802" height="860" frameX="-15" frameY="0" frameWidth="817" frameHeight="918"/>
+	<SubTexture name="charaleft instance 10010" x="7219" y="2587" width="802" height="860" frameX="-15" frameY="0" frameWidth="817" frameHeight="918"/>
+	<SubTexture name="charaleft instance 10011" x="0" y="3447" width="802" height="860" frameX="-15" frameY="0" frameWidth="817" frameHeight="918"/>
+	<SubTexture name="charaleft instance 10012" x="802" y="3447" width="802" height="860" frameX="-15" frameY="0" frameWidth="817" frameHeight="918"/>
+	<SubTexture name="charaleft instance 10013" x="1604" y="3447" width="802" height="860" frameX="-15" frameY="0" frameWidth="817" frameHeight="918"/>
+	<SubTexture name="charaleft instance 10014" x="2406" y="3447" width="802" height="860" frameX="-15" frameY="0" frameWidth="817" frameHeight="918"/>
+	<SubTexture name="chararight instance 10000" x="3208" y="3447" width="802" height="859" frameX="-49" frameY="0" frameWidth="851" frameHeight="876"/>
+	<SubTexture name="chararight instance 10001" x="4010" y="3447" width="802" height="859" frameX="-49" frameY="0" frameWidth="851" frameHeight="876"/>
+	<SubTexture name="chararight instance 10002" x="4812" y="3447" width="802" height="858" frameX="0" frameY="-18" frameWidth="851" frameHeight="876"/>
+	<SubTexture name="chararight instance 10003" x="5614" y="3447" width="802" height="858" frameX="0" frameY="-18" frameWidth="851" frameHeight="876"/>
+	<SubTexture name="chararight instance 10004" x="6416" y="3447" width="802" height="858" frameX="0" frameY="-18" frameWidth="851" frameHeight="876"/>
+	<SubTexture name="chararight instance 10005" x="7218" y="3447" width="802" height="858" frameX="0" frameY="-18" frameWidth="851" frameHeight="876"/>
+	<SubTexture name="chararight instance 10006" x="0" y="4307" width="802" height="858" frameX="0" frameY="-18" frameWidth="851" frameHeight="876"/>
+	<SubTexture name="chararight instance 10007" x="802" y="4307" width="802" height="858" frameX="0" frameY="-18" frameWidth="851" frameHeight="876"/>
+	<SubTexture name="chararight instance 10008" x="1604" y="4307" width="802" height="858" frameX="0" frameY="-18" frameWidth="851" frameHeight="876"/>
+	<SubTexture name="chararight instance 10009" x="2406" y="4307" width="802" height="858" frameX="0" frameY="-18" frameWidth="851" frameHeight="876"/>
+	<SubTexture name="chararight instance 10010" x="3208" y="4307" width="802" height="858" frameX="0" frameY="-18" frameWidth="851" frameHeight="876"/>
+	<SubTexture name="chararight instance 10011" x="4010" y="4307" width="802" height="858" frameX="0" frameY="-18" frameWidth="851" frameHeight="876"/>
+	<SubTexture name="chararight instance 10012" x="4812" y="4307" width="802" height="858" frameX="0" frameY="-18" frameWidth="851" frameHeight="876"/>
+	<SubTexture name="chararight instance 10013" x="5614" y="4307" width="802" height="858" frameX="0" frameY="-18" frameWidth="851" frameHeight="876"/>
+	<SubTexture name="charaup instance 10000" x="6416" y="4307" width="803" height="859" frameX="-34" frameY="-10" frameWidth="837" frameHeight="869"/>
+	<SubTexture name="charaup instance 10001" x="7219" y="4307" width="803" height="859" frameX="-34" frameY="-10" frameWidth="837" frameHeight="869"/>
+	<SubTexture name="charaup instance 10002" x="0" y="5166" width="803" height="859" frameX="0" frameY="0" frameWidth="837" frameHeight="869"/>
+	<SubTexture name="charaup instance 10003" x="803" y="5166" width="803" height="859" frameX="0" frameY="0" frameWidth="837" frameHeight="869"/>
+	<SubTexture name="charaup instance 10004" x="1606" y="5166" width="803" height="859" frameX="0" frameY="0" frameWidth="837" frameHeight="869"/>
+	<SubTexture name="charaup instance 10005" x="2409" y="5166" width="803" height="859" frameX="0" frameY="0" frameWidth="837" frameHeight="869"/>
+	<SubTexture name="charaup instance 10006" x="3212" y="5166" width="803" height="859" frameX="0" frameY="0" frameWidth="837" frameHeight="869"/>
+	<SubTexture name="charaup instance 10007" x="4015" y="5166" width="803" height="859" frameX="0" frameY="0" frameWidth="837" frameHeight="869"/>
+	<SubTexture name="charaup instance 10008" x="4818" y="5166" width="803" height="859" frameX="0" frameY="0" frameWidth="837" frameHeight="869"/>
+	<SubTexture name="charaup instance 10009" x="5621" y="5166" width="803" height="859" frameX="0" frameY="0" frameWidth="837" frameHeight="869"/>
+	<SubTexture name="charaup instance 10010" x="6424" y="5166" width="803" height="859" frameX="0" frameY="0" frameWidth="837" frameHeight="869"/>
+	<SubTexture name="charaup instance 10011" x="7227" y="5166" width="803" height="859" frameX="0" frameY="0" frameWidth="837" frameHeight="869"/>
+	<SubTexture name="charaup instance 10012" x="0" y="6025" width="803" height="859" frameX="0" frameY="0" frameWidth="837" frameHeight="869"/>
+	<SubTexture name="charaup instance 10013" x="803" y="6025" width="803" height="859" frameX="0" frameY="0" frameWidth="837" frameHeight="869"/>
+	<SubTexture name="charaup instance 10014" x="1606" y="6025" width="803" height="859" frameX="0" frameY="0" frameWidth="837" frameHeight="869"/>
+	<SubTexture name="creepyhey instance 10000" x="2409" y="6025" width="841" height="870"/>
+	<SubTexture name="creepyhey instance 10001" x="3250" y="6025" width="841" height="870"/>
+	<SubTexture name="creepyhey instance 10002" x="4091" y="6025" width="841" height="870"/>
+	<SubTexture name="creepyhey instance 10003" x="4932" y="6025" width="841" height="870"/>
+	<SubTexture name="creepyhey instance 10004" x="5773" y="6025" width="841" height="870"/>
+	<SubTexture name="creepyhey instance 10005" x="6614" y="6025" width="841" height="870"/>
+	<SubTexture name="creepyhey instance 10006" x="0" y="6895" width="841" height="870"/>
+	<SubTexture name="creepyhey instance 10007" x="841" y="6895" width="841" height="870"/>
+	<SubTexture name="creepyhey instance 10008" x="1682" y="6895" width="841" height="870"/>
+	<SubTexture name="creepyhey instance 10009" x="2523" y="6895" width="841" height="870"/>
+	<SubTexture name="creepyhey instance 10010" x="3364" y="6895" width="841" height="870"/>
+	<SubTexture name="creepyhey instance 10011" x="4205" y="6895" width="841" height="870"/>
+	<SubTexture name="creepyhey instance 10012" x="5046" y="6895" width="841" height="870"/>
+	<SubTexture name="creepyhey instance 10013" x="5887" y="6895" width="841" height="870"/>
+	<SubTexture name="creepyhey instance 10014" x="6728" y="6895" width="841" height="870"/>
+</TextureAtlas>
