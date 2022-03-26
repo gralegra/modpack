@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				148,
+				-34
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sombleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-34
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sombdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				148,
+				-34
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sombup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				151,
+				-34
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sombright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-34
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sombidle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/somber",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "chara",
+	"flip_x": false,
+	"healthbar_colors": [
+		54,
+		255,
+		71
+	],
+	"camera_position": [
+		-210,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

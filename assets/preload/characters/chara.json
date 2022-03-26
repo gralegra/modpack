@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				150,
+				-34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "charaidle"
+		},
+		{
+			"offsets": [
+				121,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "charaleft"
+		},
+		{
+			"offsets": [
+				69,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "charadown"
+		},
+		{
+			"offsets": [
+				70,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "charaup"
+		},
+		{
+			"offsets": [
+				135,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "chararight"
+		},
+		{
+			"offsets": [
+				142,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "creepyhey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chara",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "chara",
+	"flip_x": false,
+	"healthbar_colors": [
+		54,
+		255,
+		71
+	],
+	"camera_position": [
+		-200,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
